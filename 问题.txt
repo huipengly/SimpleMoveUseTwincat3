@@ -1,1 +1,3 @@
 1.怎么设置加载elmo驱动
+2.axis配置速度 答：axis里parameter,manual motion下可以设置移动速度
+3.plc文件下建立的结构化文本会重复执行么
